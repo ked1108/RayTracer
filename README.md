@@ -37,7 +37,7 @@ A simple CPU-based ray tracing engine written in modern C++. Inspired by [*Ray T
 
 ## 🖼 Example Render
 
-TODO
+![TODO](assets/image.png)
 
 ---
 
